@@ -1,12 +1,12 @@
 @font-face {
   font-family: "Mithella Regular";
-  src: url(./Mithella-Regular.otf);
+  src: url(https://github.com/pedroporo/tema_mithella/raw/main/Mithella-Regular.otf);
   font-style: normal;
   font-weight: normal;
 }
 @font-face {
   font-family: "Mithella Bold";
-  src: url(./Mithella-Bold.otf);
+  src: url(https://github.com/pedroporo/tema_mithella/raw/main/Mithella-Bold.otf);
   font-style: normal;
   font-weight: normal;
 }
